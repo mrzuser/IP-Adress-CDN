@@ -1,0 +1,384 @@
+46.224.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+131,072
+78.46.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+131,072
+178.104.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+131,072
+
+
+-----------------------------------------------------------------------------------------
+
+
+5.9.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+37.27.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+46.4.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+49.12.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+=========================================================================================
+49.13.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+65.21.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+65.108.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+65.109.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+88.99.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+88.198.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+91.98.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+91.99.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+94.130.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+95.216.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+95.217.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+116.202.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+116.203.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+135.181.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+136.243.0.0/16
+Hetzner Online GmbH
+65,536
+138.201.0.0/16
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+144.76.0.0/16
+Hetzner Online GmbH
+65,536
+148.251.0.0/16
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+157.90.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+159.69.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+162.55.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+167.233.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+167.235.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+168.119.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+176.9.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+178.63.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+188.40.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+188.245.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+195.201.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+65,536
+
+-----------------------------------------------------------------------------------------
+
+5.75.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+23.88.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+46.62.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+
+-----------------------------------------------------------------------------------------
+
+62.238.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+77.42.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+89.167.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+
+-----------------------------------------------------------------------------------------
+
+91.107.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+128.140.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+138.199.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+
+-----------------------------------------------------------------------------------------
+
+142.132.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+157.180.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+188.34.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+
+-----------------------------------------------------------------------------------------
+
+204.168.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+32,768
+85.10.192.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+16,384
+213.239.192.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+16,384
+213.133.96.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+8,192
+
+-----------------------------------------------------------------------------------------
+
+91.190.240.0/21
+Hetzner Online GmbH
+2,048
+185.107.52.0/22
+Hetzner Online GmbH
+1,024
+185.126.28.0/22
+Hetzner Online GmbH
+1,024
+185.171.224.0/22
+Hetzner Online GmbH
+1,024
+194.42.180.0/22
+Hetzner Online GmbH
+1,024
+194.42.184.0/22
+Hetzner Online GmbH
+1,024
+197.242.84.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+1,024
+216.55.108.0/22
+Hetzner Online GmbH
+1,024
+185.50.120.0/23
+Hetzner Online GmbH
+512
+185.157.176.0/23
+Hetzner Online GmbH
+512
+185.157.178.0/23
+Hetzner Online GmbH
+512
+185.228.8.0/23
+Hetzner Online GmbH
+512
+193.110.6.0/23
+Hetzner Online GmbH
+512
+31.58.88.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+45.15.99.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+45.145.227.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+78.138.62.0/24
+Hetzner Online GmbH
+256
+171.25.225.0/24
+Hetzner Online GmbH
+256
+178.212.75.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+185.12.65.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+185.157.83.0/24
+Hetzner Online GmbH
+256
+185.189.228.0/24
+Hetzner Online GmbH
+256
+185.189.229.0/24
+Hetzner Online GmbH
+256
+185.189.230.0/24
+Hetzner Online GmbH
+256
+185.189.231.0/24
+Hetzner Online GmbH
+256
+185.213.45.0/24
+Hetzner Online GmbH
+256
+185.216.237.0/24
+Hetzner Online GmbH
+256
+185.226.99.0/24
+Hetzner Online GmbH
+256
+193.163.198.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+194.62.106.0/24
+Hetzner Online GmbH
+256
+195.60.226.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+195.248.224.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+201.131.3.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Hetzner Online GmbH
+256
+204.29.146.0/24
+Hetzner Online GmbH
+256

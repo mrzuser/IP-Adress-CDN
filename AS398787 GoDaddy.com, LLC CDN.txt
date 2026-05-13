@@ -1,0 +1,120 @@
+45.40.144.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+45.40.148.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+45.40.152.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+50.62.88.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+50.62.172.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+104.238.68.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+166.62.104.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+166.62.108.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+166.62.112.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+192.169.220.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+1,024
+72.167.242.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+512
+198.12.144.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+512
+198.71.188.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+512
+198.71.190.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+512
+50.62.194.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+50.62.195.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+50.62.198.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+72.167.25.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+72.167.230.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+72.167.241.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+132.148.52.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+132.148.184.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+160.153.1.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+160.153.136.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+160.153.137.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+160.153.138.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+160.153.168.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+184.168.47.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+198.71.232.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256
+198.71.233.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+GoDaddy.com, LLC
+256

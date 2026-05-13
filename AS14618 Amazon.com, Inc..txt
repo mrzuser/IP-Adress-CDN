@@ -1,0 +1,1607 @@
+44.192.0.0/11
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,097,152
+3.80.0.0/12
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,048,576
+3.208.0.0/12
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,048,576
+3.224.0.0/12
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,048,576
+34.192.0.0/12
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,048,576
+34.224.0.0/12
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,048,576
+100.48.0.0/12
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,048,576
+13.216.0.0/13
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+524,288
+18.208.0.0/13
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+524,288
+32.192.0.0/13
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+524,288
+35.168.0.0/13
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+524,288
+52.200.0.0/13
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+524,288
+98.80.0.0/13
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+524,288
+98.88.0.0/13
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+524,288
+100.24.0.0/13
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+524,288
+18.204.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+18.232.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+32.192.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+32.196.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+52.4.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+52.20.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+54.80.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+54.144.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+54.156.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+54.160.0.0/14
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+262,144
+23.20.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+23.22.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+52.0.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+52.2.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+52.44.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+52.54.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+52.70.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+52.72.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+52.86.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+52.90.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.84.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.90.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.164.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.166.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.172.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.174.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.196.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.204.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.208.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.224.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.226.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.234.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+54.242.0.0/15
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+131,072
+35.153.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+50.16.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+50.17.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.86.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.87.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.88.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.89.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.152.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.198.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.210.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.211.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.221.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+54.237.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+107.20.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+107.22.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+174.129.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+184.73.0.0/16
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+65,536
+3.41.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+50.19.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+50.19.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+54.92.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+54.167.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+54.236.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+75.101.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+107.21.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+107.23.0.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+107.23.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+184.72.128.0/17
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+32,768
+16.15.192.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+16.56.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+16.56.128.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+16.56.192.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+18.88.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+18.88.64.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+18.89.128.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+18.97.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+54.112.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+54.147.64.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+54.236.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+54.236.64.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+67.202.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+75.2.128.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+75.22.192.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+75.47.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+107.21.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+107.21.64.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+157.232.128.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+157.232.192.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+161.178.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+161.178.128.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+161.193.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+167.17.192.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+170.139.0.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+170.139.64.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+170.139.128.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+204.236.192.0/18
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+16,384
+3.5.0.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+5.60.64.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+16.56.128.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+16.56.160.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+18.34.0.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+18.35.0.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+18.88.96.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+23.88.224.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+72.44.32.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+82.47.64.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+161.178.0.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+161.178.32.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+170.139.192.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+184.72.64.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+184.72.96.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+204.236.224.0/19
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+8,192
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+3.5.0.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+16.15.176.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+54.240.32.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+54.240.64.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+74.207.64.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+74.207.80.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+155.226.208.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+158.247.16.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+170.114.0.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+170.139.224.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+170.203.16.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+204.17.16.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+207.211.192.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+216.75.96.0/20
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+4,096
+3.5.16.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+3.5.24.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+15.177.0.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.176.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.184.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.192.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.200.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.208.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.216.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.224.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.232.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.240.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+16.15.248.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+18.34.232.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+18.35.232.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+24.110.88.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+35.54.32.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+40.183.0.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+54.240.8.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+54.240.120.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+69.56.0.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+69.56.8.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+69.56.16.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+69.56.24.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+69.56.40.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+69.56.48.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+69.56.56.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+72.44.40.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+76.223.136.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+96.46.128.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+96.46.136.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+99.150.8.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+108.179.152.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+140.233.136.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+143.244.88.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+149.60.16.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+149.60.24.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+151.246.8.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+157.167.184.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+168.86.128.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+170.52.32.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+198.72.88.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+216.182.224.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+216.221.168.0/21
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+2,048
+3.218.180.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+15.193.128.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+15.221.160.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+16.214.0.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+23.251.228.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+23.251.252.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+40.183.8.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+40.183.28.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+40.183.44.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+50.93.96.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+98.142.156.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+108.179.148.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+129.77.0.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+130.150.240.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+136.18.4.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+142.214.148.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+144.81.132.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+144.81.136.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+152.130.248.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+157.254.200.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+165.109.228.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+167.207.132.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+168.86.136.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+173.83.200.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+173.213.28.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+185.78.200.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+192.30.228.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+199.6.4.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+204.16.216.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+216.182.232.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+216.198.224.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+216.198.240.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+216.198.252.0/22
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+1,024
+3.5.0.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+3.5.2.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+3.5.6.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+3.5.8.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+3.5.10.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+3.5.12.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+3.5.14.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+3.5.22.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+3.5.30.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+15.129.32.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+15.177.64.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+15.221.4.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+40.183.12.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+40.183.38.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+50.93.122.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+54.240.30.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+54.240.48.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+63.140.38.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+64.28.144.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+64.28.146.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+64.28.148.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+64.28.150.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+66.22.188.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+68.71.228.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+69.56.32.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+69.56.34.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+69.56.38.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+69.67.186.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+72.22.204.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+74.214.200.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+74.214.202.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+74.214.204.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+74.214.206.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+84.75.96.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+99.151.184.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+99.151.190.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+129.41.172.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+134.224.240.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+136.18.128.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+136.18.130.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+136.18.132.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+136.18.136.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+136.18.138.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+136.18.254.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+137.83.206.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+139.180.244.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+140.98.28.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.128.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.130.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.132.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.134.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.136.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.138.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.140.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.144.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.146.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+143.220.148.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+152.39.36.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+155.226.144.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+155.226.146.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+157.166.138.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+159.172.64.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+159.172.154.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+159.172.156.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+159.172.158.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+160.79.144.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+160.153.206.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+161.69.240.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+161.107.96.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+161.107.104.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+162.215.224.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+170.72.224.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+170.200.148.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+173.199.8.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+192.65.10.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+203.142.24.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+208.75.58.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+208.78.4.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+208.80.202.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+208.213.180.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+208.214.228.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+216.139.94.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+216.153.28.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+216.182.238.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+216.183.240.0/23
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+512
+1.178.4.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+1.178.5.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+1.178.6.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.2.64.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.2.65.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.2.74.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.3.3.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.4.9.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.0.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.1.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.2.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.3.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.4.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.5.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.6.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.7.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.8.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.9.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.10.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.11.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.16.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.17.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.18.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.19.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.20.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.21.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.24.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.25.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.27.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.28.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.5.29.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.218.180.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.218.181.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+3.218.182.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+5.22.155.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+5.181.200.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.6.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.33.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.48.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.49.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.50.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.51.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.52.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.53.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.54.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+15.193.55.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.0.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.1.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.2.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.3.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.4.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.5.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.232.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.233.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.234.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.235.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.236.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.34.237.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.0.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.1.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.2.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.3.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.4.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.5.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.31.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.232.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.233.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.234.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.235.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.236.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.35.237.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.96.0.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.96.2.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+18.96.3.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.26.126.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.29.61.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.133.224.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.136.244.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.141.168.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.147.48.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.148.128.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.150.172.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.154.88.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.166.224.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.169.80.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.190.16.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.239.240.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.239.242.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.247.160.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.249.216.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.249.217.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+23.249.221.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+24.110.83.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+31.220.236.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+35.50.137.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+35.50.139.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+35.50.141.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+35.55.29.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+35.55.30.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+35.55.32.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+35.96.253.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+35.111.255.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+40.27.16.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
+40.183.14.0/24
+This prefix is RPKI valid — covered by a valid ROA (Route Origin Authorization)
+Amazon.com, Inc.
+256
